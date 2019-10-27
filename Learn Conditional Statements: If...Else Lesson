@@ -1,0 +1,15 @@
+/* An if statement checks a condition and will execute a task that condition evaluates to true
+* if..else statements make binary decisions and execute different code blocks based on  a provided condition. 
+* We can add more conditions using else….if statements
+If…Else Statements:
+*/
+
+let sale = true;
+
+sale = false;
+
+if(sale) {
+  console.log('Time to buy!');
+} else {
+  console.log('Time to wait for a sale.');
+}
